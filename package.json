@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "private": false,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "nuxt": "^3.15.4"
+  },
+  "dependencies": {
+    "@nhost/nhost-js": "^3.2.3",
+    "@nhost/vue": "^2.8.1",
+    "@pinia/nuxt": "^0.1.8",
+    "@urql/vue": "^1.4.2",
+    "ethers": "^5.6.4",
+    "graphql": "^16.4.0",
+    "pinia": "^2.0.13",
+    "sass": "^1.50.1",
+    "unplugin": "^2.1.2",
+    "vite": "^6.1.0",
+    "vue3-toastify": "^0.2.2"
+  }
+}

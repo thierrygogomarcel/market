@@ -1,0 +1,10 @@
+//tsconfig.json   
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "typeRoots": ["./types"]
+  },
+  // https://v3.nuxtjs.org/concepts/typescript 
+}
